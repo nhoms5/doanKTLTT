@@ -1,0 +1,23 @@
+﻿  main.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+f:\doan-ktlt2\doan-thu\doan-thu\main.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  SINHVIEN.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+  SACH.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+  PHIEUMUON.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+  GIAOVIEN.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+  DATE.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+  BANDOC.cpp
+f:\doan-ktlt2\doan-thu\doan-thu\date.h(25): error C2371: 'DATE': redefinition; different basic types
+  c:\program files (x86)\windows kits\8.1\include\shared\wtypes.h(652): note: see declaration of 'DATE'
+  Generating Code...
